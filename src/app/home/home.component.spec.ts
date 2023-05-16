@@ -10,7 +10,8 @@ describe('HomeComponent', () => {
     TestBed.configureTestingModule({
       declarations: [HomeComponent]
     });
-    fixture = TestBed.createComponent(HomeComponent);
+    fixture = 
+    TestBed.createComponent(HomeComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
